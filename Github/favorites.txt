@@ -1,3 +1,6 @@
 Apple
 Mango
 Orange
+1. Animal
+2. Pathan
+3. Jawan
